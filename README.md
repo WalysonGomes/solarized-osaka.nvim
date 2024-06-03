@@ -1,2 +1,2 @@
-Not Solarized at all
-[theme](theme.png "theme image")
+Not Solarized at all:
+[theme](./images/theme.png "theme image")
